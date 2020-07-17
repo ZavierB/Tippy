@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only concern I can note is that the project directions, in my opinion, should be updated. The provided video walkthrough does not exactly correspond with the written directions. Other than that it was a very enjoyable project to complete! I am looking forward to the next one. 
 
 ## License
 
